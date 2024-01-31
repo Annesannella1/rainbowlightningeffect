@@ -1,0 +1,53 @@
+repo_name: Annesannella1/udemyrandomizedlines
+report_id: 6b1e53a4ffe7230b4ec572ccd104cfee
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T12:10:03+00:00'
+requested_by: Annesannella1
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Annesannella1/udemyrandomizedlines
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Annesannella1/udemyrandomizedlines
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Annesannella1/udemyrandomizedlines
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Annesannella1/udemyrandomizedlines/blob/main/.github/workflows/npm-publish-github-packages.yml
+  detection_source: ".github/workflows/npm-publish-github-packages.yml"
+  last_updated_by: Anne Sannella
+  last_updated_on: 2024-01-30 21:09:13.000000000 Z
